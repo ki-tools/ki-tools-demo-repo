@@ -1,6 +1,14 @@
 title: test analysis
 synapse_id: syn17013688
 data:
-  core: ~
+  core:
+    syn17100911:
+      path: data/core/cpp.csv
+      modified: '2018-12-18T20:09:38.167Z'
+      version: 1.0
   discovered: ~
-  derived: ~
+  derived:
+    syn17101011:
+      path: data/derived/cpp_n.csv
+      modified: '2019-02-05T07:52:48.899Z'
+      version: 2.0
